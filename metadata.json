@@ -1,0 +1,8 @@
+{
+  "name": "App Tạo Đề Văn THCS",
+  "description": "Ứng dụng hỗ trợ giáo viên tạo đề thi môn Ngữ văn THCS dựa trên Phụ lục 3 và Bảng đặc tả, sử dụng AI để tự động sinh ngữ liệu và câu hỏi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
